@@ -1,0 +1,7 @@
+*.ico binary
+
+*.json linguist-detectable=false
+src/** linguist-detectable
+*.html linguist-vendored
+*.ts linguist-detectable
+public/**/*.html linguist-vendored
